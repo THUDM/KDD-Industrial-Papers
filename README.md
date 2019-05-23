@@ -14,7 +14,7 @@ A list of recent indutrial papers in KDD, including research track and ads track
   * [Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application](https://arxiv.org/pdf/1803.00710), *Yujing Hu, Qing Da, Anxiang Zeng, Yang Yu, Yinghui Xu.* KDD 2018.
   * [Perceive Your Users  in Depth: Learning  Universal User Representations from Multiple  E-commerce Tasks](https://arxiv.org/pdf/1805.10727), *Yabo Ni, Dan Ou, Shichen Liu, Xiang Li, Wenwu Ou, Anxiang Zeng, Luo Si.* KDD 2018.
   * [Billion-scale  Commodity Embedding for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1803.02349.pdf), *Jizhe Wang, Pipei Huang, Huan Zhao, Zhibo Zhang, Binqiang Zhao, Dik Lun Lee.* KDD 2018.
-  * [Visual Search at  Alibaba](), *Yanhao Zhang, Pan Pan, Yun Zheng, Kang Zhao, Yingya Zhang, Xiaofeng Ren, Rong Jin.* KDD 2018.
+  * Visual Search at  Alibaba, *Yanhao Zhang, Pan Pan, Yun Zheng, Kang Zhao, Yingya Zhang, Xiaofeng Ren, Rong Jin.* KDD 2018.
   * [Deep Reinforcement  Learning for Sponsored Search Real-time Bidding](https://arxiv.org/pdf/1803.00259), *Jun Zhao, Guang Qiu, Ziyu Guan, Wei Zhao, Xiaofei He.* KDD 2018.
   * [Learning and Transferring IDs Representation in E-commerce](https://arxiv.org/pdf/1712.08289), *Kui Zhao, Yuechuan Li, Zhaoqian Shuai, Cheng Yang.* KDD 2018.
   * [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978), *Guorui Zhou, Chengru Song, Xiaoqiang Zhu, Ying Fan, Han Zhu, Xiao Ma, Yanghui Yan, Junqi Jin, Han Li, Kun Gai.* KDD 2018.
@@ -31,7 +31,7 @@ A list of recent indutrial papers in KDD, including research track and ads track
 
 ## Baidu
   * [Du-Parking: Spatio-Temporal Big Data Tells You Realtime Parking Availability](https://dl.acm.org/ft_gateway.cfm?id=3219876&type=pdf), *Yuecheng Rong, Zhimian Xu, Ruibo Yan, Xu Ma.* KDD 2018.
-  * [Exploring the Urban Region-of-Interest  through the Analysis of Online Map Search Queries](), *.* KDD 2018.
+  * Exploring the Urban Region-of-Interest through the Analysis of Online Map Search Queries, *.* KDD 2018.
   * [Prospecting the Career Development of Talents: A Survival Analysis Perspective](https://webpages.uncc.edu/~hli38/paper/KDD_2017_CDT.pdf), *Huayu Li, Yong Ge, Hengshu Zhu, Hui Xiong, Hongke Zhao.* KDD 2017.
   * [Recruitment Market Trend Analysis with  Sequential Latent Variable Models](https://arxiv.org/pdf/1712.02975.pdf), *Chen Zhu, Hengshu Zhu, Hui Xiong, Pengliang Ding, Fang Xie.* KDD 2016.
   * [Days on Market: Measuring Liquidity in  Real Estate Markets](http://bigdata.ustc.edu.cn/paper_pdf/2016/Hengshu-Zhu-KDD.pdf), *Hengshu Zhu, Hui Xiong, Fangshuang Tang, Qi Liu, Yong Ge, Enhong Chen, Yanjie Fu.* KDD 2016.
@@ -59,5 +59,5 @@ A list of recent indutrial papers in KDD, including research track and ads track
 
 ## Tencent
   * [MIX: Multi-Channel Information Crossing for Text Matching](https://sites.ualberta.ca/~dniu/Homepage/Publications_files/hchen-kdd18.pdf), *Haolan Chen, Fred X. Han, Di Niu, Dong Liu, Kunfeng Lai, Chenglin Wu, Yu Xu.* KDD 2018.
-  * [On the Generative Discovery of Structured Medical Knowledge](), *.* KDD 2018.
+  * On the Generative Discovery of Structured Medical Knowledge, *.* KDD 2018.
   * [An Efficient Two-Layer Mechanism for Privacy-Preserving Truth Discovery](http://www.bolin-ding.com/papers/kdd18dptruth.pdf), *Yaliang Li, Chenglin Miao, Lu Su, Jing Gao, Qi Li, Bolin Ding, Zhan Qin, and Kui Ren.* KDD 2018.
