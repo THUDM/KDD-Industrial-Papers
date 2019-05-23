@@ -1,5 +1,5 @@
 # KDD Industrial Papers
-A list of recent papers in KDD Applied Data Science Track. The papers are organized based on companies and sorted by time to see the recent papers first. Any suggestions and pull requests are welcome. 
+A list of recent indutrial papers in KDD, including research track and ads track. The papers are organized based on companies and sorted by time to see the recent papers first. Any suggestions and pull requests are welcome. 
 
 ## Bookmarks
   * [Alibaba](#Microsoft)
