@@ -2,13 +2,13 @@
 A list of recent indutrial papers in KDD, including research track and ads track. The papers are organized based on companies and sorted by time to see the recent papers first. Any suggestions and pull requests are welcome. 
 
 ## Bookmarks
-  * [Alibaba](#Microsoft)
+  * [Alibaba](#alibaba)
   * [Amazon](#amazon)
-  * [Baidu](#Microsoft)
+  * [Baidu](#baidu)
   * [Facebook](#facebook)
   * [Google](#google)
-  * [Microsoft](#Microsoft)
-  * [Tencent](#Microsoft)
+  * [Microsoft](#microsoft)
+  * [Tencent](#tencent)
 
 ## Alibaba
   * [Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application](https://arxiv.org/pdf/1803.00710), *Yujing Hu, Qing Da, Anxiang Zeng, Yang Yu, Yinghui Xu.* KDD 2018.
