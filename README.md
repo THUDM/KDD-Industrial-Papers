@@ -9,6 +9,7 @@ A list of recent indutrial papers in KDD, including research track and ads track
   * [Google](#google)
   * [Microsoft](#microsoft)
   * [Tencent](#tencent)
+  * [Airbnb](#airbnb)
 
 ## Alibaba
   * [Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application](https://arxiv.org/pdf/1803.00710), *Yujing Hu, Qing Da, Anxiang Zeng, Yang Yu, Yinghui Xu.* KDD 2018.
@@ -59,5 +60,8 @@ A list of recent indutrial papers in KDD, including research track and ads track
 
 ## Tencent
   * [MIX: Multi-Channel Information Crossing for Text Matching](https://sites.ualberta.ca/~dniu/Homepage/Publications_files/hchen-kdd18.pdf), *Haolan Chen, Fred X. Han, Di Niu, Dong Liu, Kunfeng Lai, Chenglin Wu, Yu Xu.* KDD 2018.
-  * On the Generative Discovery of Structured Medical Knowledge, *.* KDD 2018.
+  * [On the Generative Discovery of Structured Medical Knowledge](https://dl.acm.org/ft_gateway.cfm?id=3220010&type=pdf), *Chenwei Zhang, Yaliang Li, Nan Du, Wei Fan, Philip S. Yu.* KDD 2018.
   * [An Efficient Two-Layer Mechanism for Privacy-Preserving Truth Discovery](http://www.bolin-ding.com/papers/kdd18dptruth.pdf), *Yaliang Li, Chenglin Miao, Lu Su, Jing Gao, Qi Li, Bolin Ding, Zhan Qin, and Kui Ren.* KDD 2018.
+
+## Airbnb
+ * [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://dl.acm.org/ft_gateway.cfm?id=3219885&type=pdf), *Grbovic, Mihajlo, and Haibin Cheng.* KDD 2018
